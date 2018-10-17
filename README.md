@@ -17,3 +17,8 @@ Depending on your platform, the user settings file is located here:
 * Linux: $HOME/.config/Code/User/settings.json
 
 The workspace setting file is located under the .vscode folder in your project.
+
+## Links
+
+1. [vscode](https://code.visualstudio.com)
+2. [vscode doc](https://code.visualstudio.com/docs)
