@@ -4,10 +4,13 @@
     "workbench.colorTheme": "Solarized Light",
     "terminal.integrated.shell.windows": "D:\\Program Files\\Git\\bin\\bash.exe",
     "files.exclude": {
-        "**/node_modules": true
+        "**/.vscode": true,
+        "**/node_modules": true,
+        "**/workspaceStorage": true
     },
     "workbench.startupEditor": "newUntitledFile",
     "editor.tabSize": 2,
     "editor.renderWhitespace": "boundary",
-    "files.trimTrailingWhitespace": true
+    "files.trimTrailingWhitespace": true,
+    "workbench.iconTheme": "vscode-icons"
 }
