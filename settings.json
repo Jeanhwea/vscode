@@ -1,0 +1,13 @@
+{
+    "editor.cursorBlinking": "solid",
+    "workbench.statusBar.feedback.visible": false,
+    "workbench.colorTheme": "Solarized Light",
+    "terminal.integrated.shell.windows": "D:\\Program Files\\Git\\bin\\bash.exe",
+    "files.exclude": {
+        "**/node_modules": true
+    },
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.tabSize": 2,
+    "editor.renderWhitespace": "boundary",
+    "files.trimTrailingWhitespace": true
+}
