@@ -1,7 +1,7 @@
 {
     "editor.cursorBlinking": "solid",
     "workbench.statusBar.feedback.visible": false,
-    "workbench.colorTheme": "Solarized Light",
+    "workbench.colorTheme": "Visual Studio Dark",
     "terminal.integrated.shell.windows": "D:\\Program Files\\Git\\bin\\bash.exe",
     "files.exclude": {
         "**/.vscode": true,
@@ -10,7 +10,6 @@
     },
     "workbench.startupEditor": "newUntitledFile",
     "editor.tabSize": 2,
-    "editor.renderWhitespace": "boundary",
     "files.trimTrailingWhitespace": true,
     "workbench.iconTheme": "vscode-icons",
     "git.confirmSync": false
