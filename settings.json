@@ -4,6 +4,7 @@
     "workbench.colorTheme": "Visual Studio Dark",
     "terminal.integrated.shell.windows": "D:\\Program Files\\Git\\bin\\bash.exe",
     "files.exclude": {
+        "**/__pycache__": true,
         "**/.vscode": true,
         "**/node_modules": true,
         "**/workspaceStorage": true
@@ -12,5 +13,9 @@
     "editor.tabSize": 2,
     "files.trimTrailingWhitespace": true,
     "workbench.iconTheme": "vscode-icons",
-    "git.confirmSync": false
+    "git.confirmSync": false,
+    "files.associations": {
+        "*.el": "lisp"
+    },
+    "vsicons.projectDetection.autoReload": true
 }
